@@ -1,10 +1,9 @@
-"""
-Python has a built-in string class named "str" with many handy features (there is an older module named "string"
-which you should not use). String literals can be enclosed by either double or single quotes, although single quotes
-are more commonly used.
+# Python has a built-in string class named "str" with many handy features (there is an older module named "string"
+# which you should not use). String literals can be enclosed by either double or single quotes, although single quotes
+# are more commonly used.
+#
+# Python strings are "immutable" which means they cannot be changed after they are created
 
-Python strings are "immutable" which means they cannot be changed after they are created
-"""
 
 s = 'hi'
 print(s[1])  # i
